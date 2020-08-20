@@ -1,0 +1,1 @@
+Se bugar a extensão do SQLITE, instale-o pelo apt e não pelo npm
